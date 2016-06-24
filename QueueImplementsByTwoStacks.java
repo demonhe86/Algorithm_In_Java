@@ -1,6 +1,4 @@
 //由两个栈组成的队列
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class QueueImplementsByTwoStacks {
