@@ -1,3 +1,4 @@
+package CatDogQueue;
 public class Pet {
 	private String type;
 

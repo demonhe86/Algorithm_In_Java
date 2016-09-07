@@ -1,3 +1,4 @@
+package CatDogQueue;
 public class Test {
 	public static void main(String[] args) {
 		DogCatQueue dogCatqueue = new DogCatQueue();

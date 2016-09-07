@@ -1,3 +1,4 @@
+package CatDogQueue;
 public class PetEnterQueue {
 	private Pet pet;
 	private long count;
