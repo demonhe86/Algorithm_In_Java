@@ -7,15 +7,6 @@ import java.util.Arrays;
  * 两数字之和, 时间复杂度为O(nlogn)
  */
 public class T1 {
-    public static void main(String[] args) {
-        int[] A = {1, 5, 3, 7};
-        int target = 10;
-        System.out.println(hasSum(A, target));
-        System.out.println(hasSum(A, target+1));
-
-    }
-
-
     public static boolean hasSum(int[] A, int target) {
         boolean res = false;
         if (A == null || A.length < 2) {

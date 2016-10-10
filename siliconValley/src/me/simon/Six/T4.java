@@ -5,15 +5,6 @@ package me.simon.Six;
  * 数组旋转
  */
 public class T4 {
-    public static void main(String[] args) {
-        int[] A = {1,2,3,4,5};
-        int k = 2;
-        rotateK(A, k);
-        for(int i : A) {
-            System.out.println(i);
-        }
-    }
-
     /**
      * 旋转三次
      * 整体，左，右
